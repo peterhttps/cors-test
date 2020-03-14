@@ -4,7 +4,7 @@ Simple cors tester with ajax
 
 # How to test
 
-In cors_test.js you can see a variable called **url**, only edit with url that you want and open index.html in browser and see the console.
+In cors_test.js you can see a variable **url**, only edit with url that you want and open index.html in browser and see the console.
 
 # Example
 in cors_test.js:
