@@ -8,7 +8,7 @@ In cors_test.js you can see a variable **url**, only edit with url that you want
 
 # Example
 in cors_test.js:
-
+```js
     function main() 
     {
         console.log("ajax request to check if cors is enabled");
@@ -23,9 +23,9 @@ in cors_test.js:
             }
         });
     }
-
+```
 Modify **url** to your test url, for example `http://localhost:8080/all`
-
+```js
     function main() 
         {
             console.log("ajax request to check if cors is enabled");
@@ -40,5 +40,5 @@ Modify **url** to your test url, for example `http://localhost:8080/all`
                 }
             });
         }
-
+```
 
